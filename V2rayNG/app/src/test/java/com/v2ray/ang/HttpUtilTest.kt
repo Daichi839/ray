@@ -1,6 +1,6 @@
-package com.v2ray.ang
+package org.meowt.meow
 
-import com.v2ray.ang.util.HttpUtil
+import org.meowt.meow.util.HttpUtil
 import org.junit.Assert.assertEquals
 import org.junit.Test
 

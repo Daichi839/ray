@@ -1,9 +1,9 @@
-package com.v2ray.ang.fmt
+package org.meowt.meow.fmt
 
 import android.util.Base64
 import android.util.Log
-import com.v2ray.ang.enums.EConfigType
-import com.v2ray.ang.dto.ProfileItem
+import org.meowt.meow.enums.EConfigType
+import org.meowt.meow.dto.ProfileItem
 import org.junit.After
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
